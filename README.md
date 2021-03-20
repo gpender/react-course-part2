@@ -1,4 +1,4 @@
-# react-boiler-plate project
+# react-course-part2
 
 Use yarn and npm for package management
 
