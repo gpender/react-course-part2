@@ -11,3 +11,17 @@ https://github.com/ReactTraining/react-router
 
 Installed react-router-dom
 yarn add react-router-dom@4.2.2
+
+REDUX:
+http://redux.js.org
+
+To store my Complex App state
+To enable reusable components
+Don't use props to pass data in a chain to a grandchild
+
+Redux Store{
+expenses:[{
+_id:'abc',
+name:'phone'
+}]
+}
