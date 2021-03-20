@@ -25,3 +25,11 @@ _id:'abc',
 name:'phone'
 }]
 }
+
+Actions
+
+Reducers
+https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers
+
+1. Reducers are pure functions
+2. Never change state or action
