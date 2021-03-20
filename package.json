@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate-app",
+  "name": "exp",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/gpender/react-course.git",
+  "repository": "https://github.com/gpender/react-course-part2.git",
   "author": "gpender <guy.pender@me.com>",
   "license": "MIT",
   "scripts": {
