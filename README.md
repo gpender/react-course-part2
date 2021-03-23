@@ -33,3 +33,8 @@ https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers
 
 1. Reducers are pure functions
 2. Never change state or action
+
+CombineReducers to break out reducers and simplify code.
+
+NPM uui to generate RFC4122 uuids (Universally Unique Identifier)
+https://www.npmjs.com/package/uuid
