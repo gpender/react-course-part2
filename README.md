@@ -38,3 +38,6 @@ CombineReducers to break out reducers and simplify code.
 
 NPM uui to generate RFC4122 uuids (Universally Unique Identifier)
 https://www.npmjs.com/package/uuid
+
+babel plugin for ES6 Object spread operator
+https://babeljs.io/docs/en/babel-plugin-proposal-object-rest-spread
