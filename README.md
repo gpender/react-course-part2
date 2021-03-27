@@ -41,3 +41,6 @@ https://www.npmjs.com/package/uuid
 
 babel plugin for ES6 Object spread operator
 https://babeljs.io/docs/en/babel-plugin-proposal-object-rest-spread
+
+ngrok serve webpages from localhost to web reverse
+https://dashboard.ngrok.com/get-started/setup
